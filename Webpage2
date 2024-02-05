@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <meta charset="utf-8">
+        <title>3900 Activity 2 Webpage 2. Global trends in electric vehicles</title>
+        <link href="styles.css" rel="stylesheet">
+    </head>
+        <body>
+             <h1>The rise of electric vehicles</h1>
+          <br>
+        <p>For the past decade, it has been the goal of countries around the globe to find better, more secure, and cleaner methods of transportation.
+          The latest development in transportation has been to utilize vehicles that rely fully, or partially, on electric in order to function.
+          Revolutionizing our mode of transportation has been at the pinnacle of importance for many countries. Not only has there been policies enacted, like in the case of the European Union effectively banning all non-electric vehicles by 2035, but also smaller incentives like the United States tax credit given for an electric vehicle.
+          In 2010, there were virtually no electric vehicles in use, but the number expanded to 10 million globally by 2020.
+          </p>
+          <br>
+        <img src ="https://assets.weforum.org/editor/d7K4afJ-5XT1-sval__zCJXkyAwP93bLdPVj2aR2TyQ.png" alt="Electric car stock 2010-2020">
+          <br>
+  <p> Fearing that the level of emissions were negatively affecting the climate, the efforts to increase the ratio of electric vehicles on the road has grown exponentially.
+    With these great efforts being made, the projected number of electric vehicles is expected to be in the 200 millions by 2030.
+    Its an impressive feat to achieve in 2 decades, and is only expected to grow further in the years thereafter.
+          </p>
+          <br>
+          <img src ="https://static.wixstatic.com/media/e5a5e1_fb055ac51fa1456ea58f8185d441a64e~mv2.png/v1/fill/w_980,h_817,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/e5a5e1_fb055ac51fa1456ea58f8185d441a64e~mv2.png" alt="Projected by 2030">
+            <br>
+  </body>
+</html>
