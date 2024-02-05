@@ -1,25 +1,26 @@
 body {
 font-family: Helvetica;
-background-color: yellow;
+background-color: lightblue;
 }
 
 head {
 color: black;
 text-allign: center;
-text-shadow: 2px 2px 2px black;
+text-shadow: 2px 2px 4px red;
 padding: 10px 0;
-font-size: 22 px;
+font-size: 22px;
 font-weight: bold;
 }
 
 p {
 color: black;
 border: 2px;
-text-align: center;
-font-size: 12 px;
+margin-left: 10px;
+font-size: 12px;
 font-weight: 600;
 }
 
 img {
 width: 750px;
+border: 2px solid;
 }
