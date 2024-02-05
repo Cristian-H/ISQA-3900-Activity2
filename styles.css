@@ -12,6 +12,14 @@ font-size: 22px;
 font-weight: bold;
 }
 
+h1 {
+color: black;
+text-allign: center;
+text-shadow: 2px 2px 4px red;
+padding: 10px 0;
+font-size: 18px;
+}
+
 p {
 color: black;
 border: 2px;
